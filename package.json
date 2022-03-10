@@ -1,0 +1,19 @@
+{
+  "name": "node-example-api-hapi",
+  "version": "1.0.0",
+  "description": "Exemplo de criação de uma API em Node.js utilizando o framework Hapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leandro-SI/Node-example-Api-Hapi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leandro-SI/Node-example-Api-Hapi/issues"
+  },
+  "homepage": "https://github.com/leandro-SI/Node-example-Api-Hapi#readme"
+}
